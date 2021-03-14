@@ -1,6 +1,4 @@
 
 git text
 
-test test ttt
-
-new new new
+(local) 1st modified
