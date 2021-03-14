@@ -5,5 +5,11 @@ git text
 (remote) 2nd modified
 
 
+
+
+
+
+
+
 branch2: 1st modified (local)
 branch2 : 2nd modified (remote)
