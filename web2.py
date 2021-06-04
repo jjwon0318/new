@@ -17,7 +17,7 @@ from flask import Flask, render_template
 #  전체는 ~CateField.html 임
 #  페이지는 +?page=(숫자) 분야는 &c=(숫자)
 #  <예시> 기획/아이디어의 3번째 페이지는 https://www.thinkcontest.com/Contest/CateField.html?page=3&c=2
-
+##
 #	논문/리포트 - 1, 기획/아이디어 - 2, 네이밍/슬로건 - 3, 디자인 - 4,
 #	광고/마케팅 - 5, 사진 - 6, UCC/영상 - 7, 예체능 - 8, 문학/수기 - 9,
 #	캐릭터/만화 - 10, 과학/공학 - 11, 게임/소프트웨어 - 12, 건축/건설 - 13,
