@@ -108,6 +108,5 @@ def Crawling_think(url):
 
 if __name__ == '__main__':
   url = u'https://www.thinkcontest.com/Contest/CateField.html'
-  
   #FindMaxPage_think(url)
   Crawling_think(url)
